@@ -9,7 +9,7 @@ This is the frontend of the CareerBridge Job Portal built using React.js. It pro
 - JavaScript (ES6+)
 - Axios (for API communication)
 - React Router (for client-side routing)
-- Bootstrap / Material UI (if used)
+- Material UI 
   
 ## 🔧 Setup Instructions
 
