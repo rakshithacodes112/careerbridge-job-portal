@@ -1,4 +1,4 @@
-# CareerBridge Frontend
+# CareerBridge
 
 This is the frontend of the CareerBridge Job Portal built using React.js. It provides a responsive and interactive UI for users to browse job listings, apply for jobs, and manage profiles.
 
