@@ -1,6 +1,6 @@
 # CareerBridge Frontend
 
-This is the frontend of the CareerBridge Job Portal built using **React.js**. It provides a responsive and interactive UI for users to browse job listings, apply for jobs, and manage profiles.
+This is the frontend of the CareerBridge Job Portal built using React.js. It provides a responsive and interactive UI for users to browse job listings, apply for jobs, and manage profiles.
 
 ## 🚀 Tech Stack
 
@@ -30,7 +30,7 @@ REACT_APP_BACKEND_URL=http://localhost:8080
 ```markdown
 # CareerBridge Backend
 
-This is the backend of the CareerBridge Job Portal built using **Spring Boot**. It provides REST APIs for job listings, user registration, login, and application tracking.
+This is the backend of the CareerBridge Job Portal built using Spring Boot. It provides REST APIs for job listings, user registration, login, and application tracking.
 
 ## 🚀 Tech Stack
 
